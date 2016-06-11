@@ -1,6 +1,6 @@
 # README
 
-http://word2vec.googlecode.com/svn/trunk/
+https://code.google.com/archive/p/word2vec/
 
 https://habrahabr.ru/post/258983/
 
